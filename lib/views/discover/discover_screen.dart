@@ -41,7 +41,7 @@ class _DiscoverPageState extends State<DiscoverPage> {
                 mainAxisAlignment: MainAxisAlignment.spaceBetween,
                 children: [
                   MainButton(
-                    width: 110,
+                    width: 100,
                     text: "Attraction",
                     textcolor: AppColors.white,
                     buttoncolor: AppColors.midnightblue,
@@ -49,7 +49,7 @@ class _DiscoverPageState extends State<DiscoverPage> {
                     bordercolor: AppColors.white,
                   ),
                   MainButton(
-                    width: 110,
+                    width: 100,
                     text: "Places",
                     textcolor: AppColors.white,
                     buttoncolor: AppColors.midnightblue,
@@ -57,7 +57,7 @@ class _DiscoverPageState extends State<DiscoverPage> {
                     bordercolor: AppColors.white,
                   ),
                   MainButton(
-                    width: 110,
+                    width: 100,
                     text: "Hotels",
                     textcolor: AppColors.white,
                     buttoncolor: AppColors.midnightblue,
